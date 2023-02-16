@@ -3,6 +3,7 @@
     flex-direction: column;
 
     padding: 2rem;
+
     background: var(--color-footer);
 
     /* ff 3.6+ */
@@ -83,6 +84,7 @@
 /* Customizing feature component as per needs */
 .gpt3__whatgpt3-container .gpt3__features-container_feature-text {
     margin-top: 0.5rem;
+
 }
 
 @media screen and (max-width: 850px) {
@@ -96,6 +98,9 @@
         margin-top: 1rem;
     }
 }
+
+
+
 
 @media screen and (max-width: 650px) {
 
